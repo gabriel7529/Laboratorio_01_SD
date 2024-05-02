@@ -1,3 +1,5 @@
+package Ejercicio_Desarrollado;
+
 public class Cajera {
     private String nombre;
     public Cajera() {

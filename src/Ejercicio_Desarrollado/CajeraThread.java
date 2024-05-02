@@ -1,3 +1,5 @@
+package Ejercicio_Desarrollado;
+
 public class CajeraThread extends Thread{
     private String nombre;
     private Cliente cliente;
